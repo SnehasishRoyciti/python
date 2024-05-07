@@ -32,3 +32,12 @@
 #    print (i)
 #    time.sleep(1)
 
+""" row = int (input("how many rows?: "))
+column = int(input("How many column?: "))
+symbol = input ("input symbol: ")
+for i in range (row):
+   for j in range (column):
+       print(symbol , end="")
+   print("@") """
+
+
