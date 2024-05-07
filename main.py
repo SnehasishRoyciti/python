@@ -11,6 +11,8 @@
 #print (math.ceil(x))
 #print (math.floor(x))
 #print (name*3)
-website1 =  "https://google.com"
-slice = slice (8,-4)
-print (website1[slice])
+#website1 =  "https://google.com"
+#slice = slice (8,-4)
+#print (website1[slice])
+name = input("what is your name: ")
+print (name)
