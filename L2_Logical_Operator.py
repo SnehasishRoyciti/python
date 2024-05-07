@@ -15,3 +15,20 @@
 #    name = input ("Enter your name: ")
 #print ("Hello " +name)
 
+#for i in range (5):
+#    print (i)
+
+#for i in range (1,10):
+#    print (i)
+
+#for i in range (1,10+1):
+#    print (i)
+
+#for i in range (1,10+1, 2):
+#    print (i)
+
+#import time
+#for i in range (1,10+1, 2):
+#    print (i)
+#    time.sleep(1)
+
