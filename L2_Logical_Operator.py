@@ -40,4 +40,24 @@ for i in range (row):
        print(symbol , end="")
    print("@") """
 
+""" while True:
+    name = input("enter name: ")
+    if name == "":
+        print ("enter a valid name")
+    else:
+        print("name is valid")
+        break """
+
+
+""" number = "437-556-2090"
+for i in number:
+    if i == "-":
+        continue
+    print (i) """
+
+""" for i in range (1,11,2):
+    if i==5 or i==3:
+        pass
+    else :
+        print(i) """
 
