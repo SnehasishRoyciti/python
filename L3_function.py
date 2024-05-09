@@ -1,0 +1,12 @@
+# def hello(name):
+#     print ("hello learners: "+name)
+
+# hello(input("whats your name? "))
+
+def add(*args):
+    sum =0
+    for i in args:
+        sum+=i
+    return sum
+
+print(add(1,2,3))
